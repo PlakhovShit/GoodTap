@@ -21,10 +21,7 @@
 | Desync Chams | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 | Desync AA Recode | `Gameplay`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
 | Anti Aim Recode | `Gameplay`           | ![#f03c15](https://placehold.it/15/f0f015/000000?text=+) |
-|  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Tickbase Manipulation| `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Crash FIX| `Crashes`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+
 
