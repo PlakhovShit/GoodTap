@@ -1,20 +1,39 @@
 # GoodTap
 
-Задача	Тип	Статус
-Autostop	Gameplay	#f0f015
-AutoWall	Gameplay	#f03c15
-Optimizataion	Gameplay	#f03c15
-Movement	Gameplay	#f03c15
-Multipoints	Gameplay	#f0f015
-Local animfix	Gameplay	#f03c15
-Local backtracking fixes	Gameplay	#f03c15
-Fix scope sense checkbox	Gameplay	#f03c15
-Miss counter logic	Gameplay	#f03c15
-Fakelags, tracking fixes	Gameplay	#f03c15
-Lag compensation	Gameplay	#f03c15
-Resolver improvements	Gameplay	#f03c15
-Visible chams fix	Visual	#f0f015
-Menu recode	Visual	#f0f015
-Esp recode	Visual	#6df015
-World modulation	Visual	#f0f015
-© 2019 GitHub, Inc.
+# Legendware project
+Этот проект на гитхабе создан для удобства. Каждый может посмотреть, что сейчас делается, дорабатывается.
+Группа проекта - `vk.com/legendware`  
+  
+![alt-текст](https://sun9-54.userapi.com/c856132/v856132672/152517/KeDEo0MOt8Y.jpg "Get good. Get legendware")
+## Текущая работа / Проект "1 месяц"
+
+> Двумя словами - сыро пиздец. Работы - вагон и тележка. Дохуя работы. © KuCJloTa
+  
+#### До конца : `28 дней`  
+##### Конец : `8 декабря 2019`  
+  
+  
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) - Работа не начата
+- ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) - Работаем над этим
+- ![#6df015](https://placehold.it/15/6df015/000000?text=+) - Сделано  
+
+  
+    
+|    Задача     |         Тип        | Статус |
+| ------------- |:------------------:| -----:|
+| Autostop      | `Gameplay`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
+| AutoWall      | `Gameplay`         | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Optimizataion | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Movement | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Multipoints | `Gameplay`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
+| Local animfix | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Local backtracking fixes | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Fix scope sense checkbox | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Miss counter logic | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Fakelags, tracking fixes | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Lag compensation | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Resolver improvements | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Visible chams fix | `Visual`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
+| Menu recode | `Visual`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
+| Esp recode | `Visual`           | ![#6df015](https://placehold.it/15/6df015/000000?text=+) |
+| World modulation | `Visual`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
