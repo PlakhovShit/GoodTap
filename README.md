@@ -9,7 +9,7 @@
   
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) - Работа не начата
 - ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) - Работаем над этим
-- ![#6df015](https://placehold.it/15/6df015/000000?text=+) - Сделано  
+- ![#6df015](https://windows-cdn.softpedia.com/screenshots/ico/32x32-Free-Design-Icons.gif) - Сделано  
 
   
     
