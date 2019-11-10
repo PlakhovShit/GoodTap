@@ -15,8 +15,8 @@
     
 |    Задача     |         Тип        | Статус |
 | ------------- |:------------------:| -----:|
-|       | `Gameplay`           | ![#f0f015](https://placehold.it/15/f03c15/000000?text=+) |
-|       | `Gameplay`         | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| BackShoot Exploit | `Gameplay`           | ![#f0f015](https://placehold.it/15/f03c15/000000?text=+) |
+| Resolver      | `Gameplay`         | ![#f03c15](https://placehold.it/15/f0f015/000000?text=+) |
 |  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 |  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 |  | `Gameplay`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
