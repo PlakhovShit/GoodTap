@@ -16,17 +16,17 @@
     
 |    Задача     |         Тип        | Статус |
 | ------------- |:------------------:| -----:|
-| BackShoot Exploit | `Gameplay`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
-| Resolver      | `Gameplay`         | ![#f03c15](https://placehold.it/15/f0f015/000000?text=+) |
-| AutoWall Recode | `Gameplay`           | ![#f03c15](https://placehold.it/15/6df015/000000?text=+) |
-| Desync Chams | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-| Desync AA Recode | `Gameplay`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
-| Anti Aim Recode | `Gameplay`           | ![#f03c15](https://placehold.it/15/f0f015/000000?text=+) |
-| Tickbase Manipulation| `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-| Crash FIX| `Crashes`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-| CFG System Recode| `Misc`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-| Chams Recode| `Vusials`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-| Shot Counter| `Vusials`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-| Local animfix| `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| BackShoot Exploit | `Gameplay`           | ![#f0f015](https://cdn4.iconfinder.com/data/icons/6x16-free-application-icons/16/Save.png) |
+| Resolver      | `Gameplay`         | ![#f03c15](https://cdn4.iconfinder.com/data/icons/6x16-free-application-icons/16/Save.png) |
+| AutoWall Recode | `Gameplay`           | ![#f03c15](http://s1.iconbird.com/ico/2013/12/517/w16h161386955471success7.png) |
+| Desync Chams | `Gameplay`           | ![#f03c15](https://cdn4.iconfinder.com/data/icons/6x16-free-application-icons/16/Save.png) |
+| Desync AA Recode | `Gameplay`           | ![#f0f015](https://cdn4.iconfinder.com/data/icons/6x16-free-application-icons/16/Save.png) |
+| Anti Aim Recode | `Gameplay`           | ![#f03c15](https://cdn4.iconfinder.com/data/icons/6x16-free-application-icons/16/Save.png) |
+| Tickbase Manipulation| `Gameplay`           | ![#f03c15](http://s1.iconbird.com/ico/0612/vistabasesoftwareicons/w16h161339252558DeleteRed7.png) |
+| Crash FIX| `Crashes`           | ![#f03c15](http://s1.iconbird.com/ico/0612/vistabasesoftwareicons/w16h161339252558DeleteRed7.png) |
+| CFG System Recode| `Misc`           | ![#f03c15](http://s1.iconbird.com/ico/0612/vistabasesoftwareicons/w16h161339252558DeleteRed7.png) |
+| Chams Recode| `Vusials`           | ![#f03c15](http://s1.iconbird.com/ico/0612/vistabasesoftwareicons/w16h161339252558DeleteRed7.png) |
+| Shot Counter| `Vusials`           | ![#f03c15](http://s1.iconbird.com/ico/0612/vistabasesoftwareicons/w16h161339252558DeleteRed7.png) |
+| Local animfix| `Gameplay`           | ![#f03c15](http://s1.iconbird.com/ico/0612/vistabasesoftwareicons/w16h161339252558DeleteRed7.png) |
 
 
