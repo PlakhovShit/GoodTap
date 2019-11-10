@@ -19,15 +19,12 @@
 | Resolver      | `Gameplay`         | ![#f03c15](https://placehold.it/15/f0f015/000000?text=+) |
 | AutoWall Recode | `Gameplay`           | ![#f03c15](https://placehold.it/15/6df015/000000?text=+) |
 | Desync Chams | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Gameplay`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
+| Desync AA Recode | `Gameplay`           | ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) |
+| Anti Aim Recode | `Gameplay`           | ![#f03c15](https://placehold.it/15/f0f015/000000?text=+) |
 |  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 |  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 |  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 |  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 |  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 |  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
-| | `Visual`           | ![#f0f015](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Visual`           | ![#f0f015](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Visual`           | ![#6df015](https://placehold.it/15/f03c15/000000?text=+) |
-|  | `Visual`           | ![#f0f015](https://placehold.it/15/f03c15/000000?text=+) |
+
