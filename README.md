@@ -25,5 +25,7 @@
 | Crash FIX| `Crashes`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 | CFG System Recode| `Misc`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 | Chams Recode| `Vusials`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Shot Counter| `Vusials`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
+| Local animfix| `Gameplay`           | ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) |
 
 
