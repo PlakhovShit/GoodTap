@@ -8,7 +8,7 @@
   
   
 - ![#f03c15](http://s1.iconbird.com/ico/0612/vistabasesoftwareicons/w16h161339252558DeleteRed7.png) - Работа не начата
-- ![#f0f015](https://placehold.it/15/f0f015/000000?text=+) - Работаем над этим
+- ![#f0f015](https://cdn4.iconfinder.com/data/icons/6x16-free-application-icons/16/Save.png) - Работаем над этим
 - ![#6df015](http://s1.iconbird.com/ico/2013/12/517/w16h161386955471success7.png) - Сделано  
 - ![#6df015](http://s1.iconbird.com/ico/0612/prettyoffice/w16h161339405769Cancel16.png) - Отменено
 
